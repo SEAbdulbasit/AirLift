@@ -1,12 +1,12 @@
 <h1 align="center">Movie Listing</h1>
 
 <p align="center">  
-This is a small demo project for loading movies list from a file and fetching images from Flickr based on movie tittle.
+This is a small demo project for loading images.
 </p>
 </br>
 
 ## Download
-Go to the [Releases](https://github.com/SEAbdulbasit/MoviesListingTest/releases) to download the latest APK.
+Go to the [Releases](https://github.com/SEAbdulbasit/AirLift/releases) to download the latest APK.
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
