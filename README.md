@@ -22,7 +22,7 @@ Go to the [Releases](https://github.com/SEAbdulbasit/AirLift/releases) to downlo
   - Repository pattern
   - DI (Manually)
   
- -Libraries 
+- Libraries 
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - construct the REST APIs and paging network data.
 - [Moshi](https://github.com/square/moshi/) - A modern JSON library for Kotlin and Java.
 - [Glide](https://github.com/bumptech/glide) - loading images.
