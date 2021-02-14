@@ -23,10 +23,10 @@ Go to the [Releases](https://github.com/SEAbdulbasit/AirLift/releases) to downlo
   - DI (Manually)
   
 - Libraries 
-- [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - construct the REST APIs and paging network data.
-- [Moshi](https://github.com/square/moshi/) - A modern JSON library for Kotlin and Java.
-- [Glide](https://github.com/bumptech/glide) - loading images.
-- [Timber](https://github.com/JakeWharton/timber) - logging.
-- [Material-Components](https://github.com/material-components/material-components-android) - Material design components like ripple animation, cardView.
-- [Zoomage](https://github.com/jsibbold/zoomage) - A simple pinch-to-zoom ImageView library for Android with an emphasis on a smooth and natural feel.
+  - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - construct the REST APIs and paging network data.
+  - [Moshi](https://github.com/square/moshi/) - A modern JSON library for Kotlin and Java.
+  - [Glide](https://github.com/bumptech/glide) - loading images.
+  - [Timber](https://github.com/JakeWharton/timber) - logging.
+  - [Material-Components](https://github.com/material-components/material-components-android) - Material design components like ripple animation, cardView.
+  - [Zoomage](https://github.com/jsibbold/zoomage) - A simple pinch-to-zoom ImageView library for Android with an emphasis on a smooth and natural feel.
                                                 
