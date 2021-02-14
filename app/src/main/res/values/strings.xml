@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Airlift</string>
+    <string name="genre">Genre:</string>
+    <string name="movie_tittle">Movie Tittle</string>
+    <string name="year">Year:</string>
+    <string name="cast">Cast:</string>
+    <string name="images">Images:</string>
+    <string name="rating">Rating:</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="move_to_top">move to top</string>
+    <string name="search">Search</string>
+</resources>
